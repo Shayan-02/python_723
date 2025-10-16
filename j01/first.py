@@ -1,0 +1,3 @@
+print("salam")
+print("chetori")
+
